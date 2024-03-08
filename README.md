@@ -1,7 +1,7 @@
 1. Function Definitions:
 
     calculate_corrected_temperature(T_target, T_actual): Takes the target temperature (T_target) and actual temperature (T_actual) as input and calculates the corrected temperature (T_corr) using a specific formula.
-    calculate_flow_temperature(T_desired, h_c, T_outside): Takes the desired temperature (T_desired), heat transfer coefficient (h_c), and outside temperature (T_outside) as input and calculates the flow temperature (T_flow) using a specific formula.
+    calculate_flow_temperature(T_desired, h_c, T_outside): Takes the desired temperature (T_desired), heat curve (h_c), and outside temperature (T_outside) as input and calculates the flow temperature (T_flow) using a specific formula.
 
 2. Load Compensation Adjustment:
 
